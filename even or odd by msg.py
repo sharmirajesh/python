@@ -1,4 +1,4 @@
-def fun(n)
+def fun(n):
 if n%2==0:
    return("the no is even")
 else:
