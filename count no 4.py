@@ -1,4 +1,4 @@
-def count(num)
+def count(num):
 count=0
 for nim in nums:
    if num==4:
