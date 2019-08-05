@@ -1,4 +1,4 @@
-def fun(str,n)
+def fun(str,n):
 result=" "
 for i n range(n):
    result=result+str
